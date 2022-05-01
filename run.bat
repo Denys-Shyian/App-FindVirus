@@ -1,0 +1,1 @@
+python A:\Проекты\Разработки\Python\FindVirus\main.py  A:\Проекты\Разработки\Python\FindVirus
